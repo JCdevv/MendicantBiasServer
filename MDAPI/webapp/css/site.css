@@ -1,0 +1,91 @@
+body.login{
+	background: #A8D0E6;
+	display: block;
+	margin-top: 150;
+    text-align: center;
+	
+}
+
+body.update{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+	margin-left:auto; 
+    margin-right:auto;
+    
+}
+
+body.add_sale{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+	margin-left:auto; 
+    margin-right:auto;
+    
+}
+
+body.add{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+body.home{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+}
+
+body.forgot-pass{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+}
+
+body.update-pass{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+}
+
+body.reset{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+}
+
+body.search{
+	background: #A8D0E6;
+	display: block;
+    text-align: center;
+}
+
+table.saletable{
+	border: 3px solid black;
+	border-collapse: collapse;
+	width: 40%;
+	margin-left:auto; 
+    margin-right:auto;
+    text-align: centre;
+}
+
+table.maintable{
+	border: 3px solid black;
+	border-collapse: collapse;
+	width: 80%;
+	margin-left:auto; 
+    margin-right:auto;
+    text-align: centre;
+}
+
+table.saletable.td{
+	text-align: centre;
+	vertical-align: middle;
+}
+
+table.maintable.td,table.maintable.th{
+	border-right: 3px solid black;
+}
+
